@@ -1,6 +1,5 @@
 package com.cipher.interceptors;
 
-import com.cipher.common.service.CipherService;
 import com.cipher.common.service.CipherServiceCBCMode;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.servlet.HandlerInterceptor;
